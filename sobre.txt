@@ -1,0 +1,2 @@
+- Hoje iniciamos o projeto criando tabelas no workbench
+- Amanhã iremos criar as relações entre as tabelas
